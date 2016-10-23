@@ -1,10 +1,12 @@
 body {
     background-image: url("footer_lodyas.png");
     background-color: #262426;
-    padding: 20px;
+    padding: 50px;
 }
 #hardstyle {
-  width: 200px; 
+  width: 320px; 
+  display: block;
+  margin: auto;
 
 }
 #hardstyle g {
