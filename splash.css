@@ -1,0 +1,17 @@
+body {
+    background-image: url("footer_lodyas.png");
+    background-color: #262426;
+    padding: 20px;
+}
+#hardstyle {
+  width: 200px; 
+
+}
+#hardstyle g {
+  stroke: #2c97cd; 
+  transition: stroke 2s;
+  <!-- Transition gradient: https://developer.mozilla.org/en-US/docs/Web/CSS/transition -->
+}
+#hardstyle:hover g {
+  stroke: #c02ccd; 
+}
